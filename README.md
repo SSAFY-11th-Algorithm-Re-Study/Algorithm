@@ -6,8 +6,6 @@
 | :----------------: | :---------------------------------------------------: | :---------------------------------------------: | :----------------------------------------------------: | :---------------------------------------------------: |
 |     백&nbsp;준     |    [backalex](https://solved.ac/profile/backalex)     |    [hjx06](https://solved.ac/profile/hjx06)     | [wjdwogml5890](https://solved.ac/profile/wjdwogml5890) |  [hyeon21owo](https://solved.ac/profile/hyeon21owo)   |
 
-<br><br>
-
 ## 규칙
 
 ```
