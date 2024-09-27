@@ -2,9 +2,9 @@
 
 ## 스터디 멤버
 
-| 깃&nbsp;허&nbsp;브 | [alex&nbsp;-&nbsp;koko](https://github.com/alex-koko) | [hj&nbsp;-&nbsp;k66](https://github.com/hj-k66) |      [Jungjaehee](https://github.com/Jungjaehee)       | [honggyeonghyeon](https://github.com/honggyeonghyeon) |
+| 깃&nbsp;허&nbsp;브 |      | [hj&nbsp;-&nbsp;k66](https://github.com/hj-k66) |      [Jungjaehee](https://github.com/Jungjaehee)       | [honggyeonghyeon](https://github.com/honggyeonghyeon) |
 | :----------------: | :---------------------------------------------------: | :---------------------------------------------: | :----------------------------------------------------: | :---------------------------------------------------: |
-|     백&nbsp;준     |    [backalex](https://solved.ac/profile/backalex)     |    [hjx06](https://solved.ac/profile/hjx06)     | [wjdwogml5890](https://solved.ac/profile/wjdwogml5890) |  [hyeon21owo](https://solved.ac/profile/hyeon21owo)   |
+|     백&nbsp;준     |      |    [hjx06](https://solved.ac/profile/hjx06)     | [wjdwogml5890](https://solved.ac/profile/wjdwogml5890) |  [hyeon21owo](https://solved.ac/profile/hyeon21owo)   |
 
 ## 규칙
 
@@ -13,7 +13,7 @@
 2. 코드 제출은 일주일 3회(월, 수, 금)이며 마감일 11:59까지 인정
 3. 3회 이상 미제출 시, 방출
 4. 플랫폼은 백준, SWEA, 프로그래머스
-5. 문제 선택은 희정 -> 승희 -> 재희 -> 경현 순
+5. 문제 선택은 희정 -> 재희 -> 경현 순
 6. 각자 코드를 github에 올리기
 7. 궁금한 점을 올리거나 다른 사람 코드에서 궁금한 부분을 질문해주세요!
 ```
