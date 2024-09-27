@@ -3,8 +3,8 @@
 ## 스터디 멤버
 
 | 깃&nbsp;허&nbsp;브 | [hj&nbsp;-&nbsp;k66](https://github.com/hj-k66) |      [Jungjaehee](https://github.com/Jungjaehee)       | [honggyeonghyeon](https://github.com/honggyeonghyeon) |
-| :----------------: | :---------------------------------------------------: | :---------------------------------------------: | :----------------------------------------------------: | :---------------------------------------------------: |
-|     백&nbsp;준     |    [hjx06](https://solved.ac/profile/hjx06)     | [wjdwogml5890](https://solved.ac/profile/wjdwogml5890) |  [hyeon21owo](https://solved.ac/profile/hyeon21owo)   |
+| :---------------------------------------------------: | :---------------------------------------------: | :----------------------------------------------------: | :---------------------------------------------------: |
+|     백&nbsp;준     |  [hjx06](https://solved.ac/profile/hjx06)     | [wjdwogml5890](https://solved.ac/profile/wjdwogml5890) |  [hyeon21owo](https://solved.ac/profile/hyeon21owo)   |
 
 ## 규칙
 
