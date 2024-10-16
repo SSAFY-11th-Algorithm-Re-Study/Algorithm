@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-/* 11660KB 68ms
+/* 11640KB 60ms
  * [문제 해석]
  * Strahler 순서
  * - 강의 근원인 노드의 순서는 1
@@ -37,7 +37,7 @@ import java.util.StringTokenizer;
 public class B9470_G3_Strahler순서 {
 	static int M, P;
 	static int[] strahler;
-	static List<Integer>[] graph, revGraph;
+	static List<Integer>[] graph;
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -52,19 +52,16 @@ public class B9470_G3_Strahler순서 {
 			P = Integer.parseInt(st.nextToken());
 			strahler = new int[M+1];
 			graph = new List[M+1];
-			revGraph = new List[M+1];
 			
 			for(int i=1; i<=M; i++) {
 				graph[i] = new ArrayList<Integer>();
-				revGraph[i] = new ArrayList<Integer>();
 			}
 			
 			for(int i=0; i<P; i++) {
 				st = new StringTokenizer(br.readLine());
 				int a = Integer.parseInt(st.nextToken());
 				int b = Integer.parseInt(st.nextToken());
-				graph[a].add(b);
-				revGraph[b].add(a);
+				graph[b].add(a);
 			}
 			
 			for(int i=1; i<=M; i++) {
@@ -80,7 +77,7 @@ public class B9470_G3_Strahler순서 {
 	private static void checkStrahler(int number) {
 		int i = 0;
 		int count = 0;
-		for(int n : revGraph[number]) {
+		for(int n : graph[number]) {
 			if(strahler[n] == 0) checkStrahler(n);
 			if(i == strahler[n]) count ++;
 			else if (i < strahler[n]) {
